@@ -6,7 +6,7 @@
 </p>
 
 # Ana Maria Magalhães
-<sub>*PhD Student at UNICAMP*
+<sub>*PhD Student* at UNICAMP</sub>
 
 **Background in:** Python, Machine Learning.
 
