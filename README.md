@@ -14,5 +14,6 @@
 * [LinkedIn](https://www.linkedin.com/in/ana-maria-dos-santos-magalh%C3%A3es-a1939a58/)
 * [CVLattes](http://lattes.cnpq.br/0396178578177258) 
 * [Medium](https://medium.com/@anamariaeal)
+* [Instagram](https://www.instagram.com/lanceosdados/)
 
 
