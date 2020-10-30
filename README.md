@@ -10,10 +10,14 @@
 
 **Background in:** Python, Machine Learning.
 
+**Projects**
+* [Análise da Violência no Rio de Janeiro](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/An%C3%A1lise_da_viol%C3%AAncia_do_Rio_de_Janeiro.ipynb)
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ana-maria-dos-santos-magalh%C3%A3es-a1939a58/)
 * [CVLattes](http://lattes.cnpq.br/0396178578177258) 
 * [Medium](https://medium.com/@anamariaeal)
 * [Instagram](https://www.instagram.com/lanceosdados/)
+
 
 
