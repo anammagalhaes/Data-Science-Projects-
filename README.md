@@ -12,6 +12,9 @@
 
 **Projects**
 * [Análise da Violência no Rio de Janeiro](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/An%C3%A1lise_da_viol%C3%AAncia_do_Rio_de_Janeiro.ipynb)
+* [Análise dos Dados do Airbnb de Paris](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/An%C3%A1lise_dos_dados_do_Airbnb_de_Paris.ipynb)
+* [Detecção de Câncer de Mama com Machine Learning](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/DETEC%C3%87%C3%83O_DE_CANCER_DE_MAMA_MACHINE_LEARNING.ipynb)
+* [Estudo de Casos de COVID-19](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/Estudo_de_casos_do_COVID_19.ipynb)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ana-maria-dos-santos-magalh%C3%A3es-a1939a58/)
