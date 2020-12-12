@@ -8,7 +8,7 @@
 # Ana Maria Magalhães
 <sub>*PhD Student* at UNICAMP</sub>
 
-**Background in:** Python, Machine Learning.
+**Background in:** Python, Data Science, Machine Learning.
 
 **Projects**
 * [Análise da Violência no Rio de Janeiro](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/An%C3%A1lise_da_viol%C3%AAncia_do_Rio_de_Janeiro.ipynb)
