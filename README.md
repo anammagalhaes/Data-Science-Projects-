@@ -17,6 +17,7 @@
 * [Estudo de Casos de COVID-19](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/Estudo_de_casos_do_COVID_19.ipynb)
 * [Churn Prediction para uma empresa de Telecomunicações](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
 * [Análise de Risco de Crédito](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/An%C3%A1lise_de_Risco_de_Cr%C3%A9dito.ipynb)
+* [Detecção de fraudes em cartão de crédito usando Machine Learning](https://github.com/anammagalhaes/Data-Science-Projects-/blob/master/Machine_Learning_para_detec%C3%A7%C3%A3o_de_fraudes_em_cart%C3%A3o_de_cr%C3%A9dito.ipynb)
 
 
 **Links:**
